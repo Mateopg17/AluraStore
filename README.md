@@ -26,7 +26,7 @@ Se implementó un sistema de puntuación del **1 al 4** basado en el desempeño 
 | **Logística (Costos)** | Tienda 4 (Eficiencia) | Tienda 1 (Costos elevados) |
 
 ### 3. Visualizaciones Clave
-![Análisis de Ingresos](imagenes/Ingresos.png)
+![Análisis de Ingresos](Imagenes/Ingresos.png)
 *Figura 1: Comparativa de facturación total por sucursal.*
 
 ## 🛠️ Herramientas Utilizadas
